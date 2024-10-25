@@ -1,0 +1,277 @@
+{
+	"name": {
+		"message": "VPN-free.pro - Free Unlimited VPN"
+	},
+	"short_name": {
+		"message": "Free VPN"
+	},
+	"description": {
+		"message": "Unblock any website and stay secure with VPN-free.pro. Easy use with one-click activation. VPN-free.pro - the best VPN!"
+	},
+
+	"start_page_installing": {
+		"message": "Installing VPN-free.pro - Unlimited Secure VPN"
+	},
+	"start_page_installed": {
+		"message": "VPN-free.pro installed successfully and running!"
+	},
+	"start_page_not_close_text": {
+		"message": "Do not close this page until the installation is complete"
+	},
+	"start_page_manual": {
+		"message": "While the extension is being installed, please read the user manual"
+	},
+	"start_page_pin_title": {
+		"message": "Pin the extension"
+	},
+	"start_page_pin_subtitle": {
+		"message": "To quickly access the VPN, pin the extension to the toolbar."
+	},
+	"start_page_pin_text": {
+		"message": "1. Click on the puzzle piece icon in the upper right corner of your browser.<br>2. Locate the <b>VPN-free.pro - Free Unlimited VPN</b> extension in the list of extensions and pin it.<br><br>After pinning the extension, its action button will remain in the browser toolbar."
+	},
+   "start_page_select_country_title": {
+		"message": "Select VPN Server"
+   },
+   "start_page_select_country_subtitle": {
+		"message": "Choose a country from the dropdown list of the VPN extension."
+   },
+   "start_page_select_country_text": {
+		"message": "1. Click on the VPN-free.pro extension icon on the toolbar to access the extension menu.<br>2. Select a VPN server from the available countries in the dropdown menu.<br><br>After selecting the VPN country, it will <b>automatically</b> connect to the server you've chosen."
+   },
+   "start_page_disable_vpn_title": {
+		"message": "Turn off VPN"
+   },
+   "start_page_disable_vpn_subtitle": {
+		"message": "Instantly turn off the VPN if you don't need it right now."
+   },
+   "start_page_disable_vpn_text": {
+		"message": "1. Click on the VPN-free.pro extension icon on the toolbar to access the extension menu.<br>2. Select <b>Turn off VPN</b> option from the dropdown menu.<br><br>After turning off the VPN, all your traffic will go directly.<br>When the VPN is turned off, the icon will be gray.<br><br>To reconnect, simply select a country from the list, and the extension will <b>automatically</b> connect to the server you've chosen."
+   },
+   "start_page_support_title": {
+		"message": "Support"
+   },
+   "start_page_support_subtitle": {
+		"message": "Support is always ready to assist you."
+   },
+   "start_page_support_text": {
+		"message": "1. Click on the VPN-free.pro extension icon on the toolbar to access the extension menu.<br> 2. Click on the <b>email address</b> to send a request to customer support.<br><br>You can also send an email directly to our mailbox from any of your email addresses (Gmail, Hotmail, Yandex, and others).<br> We do not respond to questions asked in the reviews section of the Chrome Web Store."
+   },
+	"start_page_error_document_title": {
+		"message": "Error!"
+	},
+	"start_page_error_dns_title": {
+		"message": "<b>❌Critical error!!! VPN connection failure!❌</b>"
+	},
+	"start_page_error_dns_text": {
+		"message": "Your provider is blocking DNS. Changing DNS settings is easy.<br><br><a id=\"dns\" target=\"_blank\">Change DNS</a> or contact support at: <a href='mailto:support@free-vpn.pro?subject=VPN%20Professional%20DNS%20Error'>support@free-vpn.pro"
+	},
+
+	"start_page_edge_extension": {
+		"message": "Extensions"
+	},
+	"start_page_edge_name": {
+		"message": "VPN-free.pro - Free Unlimited VPN"
+	},
+	"start_page_edge_manage": {
+		"message": "Manage extensions"
+	},
+	"start_page_edge_microsoft": {
+		"message": "Open Microsoft Edge Add-ons"
+	},
+
+	"error_page_attention": {
+		"message": "The extension failed to load properly. VPN may not work correctly.<br>Make sure your settings are selected as shown in the figure below:"
+	},
+	"error_page_name": {
+		"message": "VPN-free.pro - Free Unlimited VPN"
+	},
+	"error_page_on": {
+		"message": "On"
+	},
+	"error_page_description_title": {
+		"message": "Description"
+	},
+	"error_page_description_text": {
+		"message": "Unblock any website and stay secure with VPN-free.pro. Easy use with one-click activation. VPN-free.pro - the best VPN!"
+	},
+	"error_page_access_title": {
+		"message": "Site access"
+	},
+	"error_page_access_text": {
+		"message": "Allow this extension to read and change all your data on websites you visit:"
+	},
+	"error_page_access_select": {
+		"message": "On all sites"
+	},
+	"error_page_settings": {
+		"message": "Navigate to settings"
+	},
+
+	"share_page_satisfied": {
+		"message": "Thank you for choosing <b>VPN-free.pro</b>!<br><br>Are you satisfied with our application?<br><br>"
+	},
+	"share_page_rate": {
+		"message": "Please give us a good rating on the Chrome Web Store:<br><br>"
+	},
+	"share_page_mail": {
+		"message": "Write your comments and suggestions to the e-mail <a href='mailto:support@free-vpn.pro?subject=VPN%20Professional%20Share%20Page'>support@free-vpn.pro</a>."
+	},
+	
+	"dns_page_h1_chrome": {
+		"message": "How to Set Up Secure DNS in Google Chrome"
+	},
+	"dns_page_p1_chrome": {
+		"message": "Click the <button class=\"button\" id=\"button_chrome\">Open DNS Settings Button</button> or enter <code>chrome://settings/security</code> into your browser's address bar."
+	},
+	"dns_page_p2_chrome": {
+		"message": "You can also open the above page manually: <b>Menu → Settings → Privacy and security → Security</b>."
+	},
+	"dns_page_p3_chrome": {
+		"message": "Scroll down to the <b>Advanced</b> section."
+	},
+	"dns_page_p4_chrome": {
+		"message": "Enable the <b>Encrypt the names of sites that you visit</b>."
+	},
+	"dns_page_p5_chrome": {
+		"message": "Expand the options next to <b>Select DNS provider</b>, and select <b>Google (Public DNS)</b> or <b>Cloudflare (1.1.1.1)</b>."
+	},
+	"dns_page_p6_chrome": {
+		"message": "<b>Be sure</b> to restart your browser."
+	},
+	"dns_page_h1_edge": {
+		"message": "How to Set Up Secure DNS in Microsoft Edge"
+	},
+	"dns_page_p1_edge": {
+		"message": "Click the <button class=\"button\" id=\"button_edge\">Open DNS Settings Button</button> or enter <code>edge://settings/privacy</code> into your browser's address bar."
+	},
+	"dns_page_p2_edge": {
+		"message": "You can also open the above page manually: <b>Menu → Settings → Privacy, search and services</b>."
+	},
+	"dns_page_p3_edge": {
+		"message": "Scroll down to the <b>Security</b> section."
+	},
+	"dns_page_p4_edge": {
+		"message": "Enable the <b>Use secure DNS to specify how to lookup the network address for websites</b>."
+	},
+	"dns_page_p5_edge": {
+		"message": "Switch to <b>Choose a service provider</b>."
+	},
+	"dns_page_p6_edge": {
+		"message": "Click an empty box and select <b>Google (Public DNS)</b> or <b>Cloudflare (1.1.1.1)</b>."
+	},
+	"dns_page_p7_edge": {
+		"message": "<b>Be sure</b> to restart your browser."
+	},
+	"dns_page_h1_yandex": {
+		"message": "How to Set Up Secure DNS in Yandex Browser"
+	},
+	"dns_page_p1_yandex": {
+		"message": "Click the <button class=\"button\" id=\"button_yandex\">Open DNS Settings Button</button> or enter <code>browser://protect</code> into your browser's address bar."
+	},
+	"dns_page_p2_yandex": {
+		"message": "You can also open the above page manually: <b>Menu → Settings → Security</b>."
+	},
+	"dns_page_p3_yandex": {
+		"message": "Scroll down to the <b>Secure connection</b> section."
+	},
+	"dns_page_p4_yandex": {
+		"message": "Enable the <b>Use a secure DNS server</b>."
+	},
+	"dns_page_p5_yandex": {
+		"message": "Expand the options next to <b>Use</b>, and select <b>Google (Public DNS)</b> or <b>Cloudflare (1.1.1.1)</b>."
+	},
+	"dns_page_p6_yandex": {
+		"message": "<b>Be sure</b> to restart your browser."
+	},
+   "select_country": {
+        "message": "Select a country or turn off VPN:"
+    },
+    "NOVPN": {
+        "message": "Turn off VPN"
+    },
+    "NL": {
+        "message": "Netherlands"
+    },
+    "DE": {
+        "message": "Germany"
+    },
+    "US": {
+        "message": "United States (USA)"
+    },
+    "UK": {
+        "message": "United Kingdom (England)"
+    },
+    "SG": {
+        "message": "Singapore"
+    },
+    "FR": {
+        "message": "France"
+    },
+    "CA": {
+        "message": "Canada"
+    },
+    "RU": {
+        "message": "Russia"
+    },
+	"recommend": {
+		"message": "In order to protect your PC we <b><font color=\"red\">recommend you install</font></b> the following extensions."
+	},
+    "install": {
+        "message": "Congratulations!!!<br> You have installed <b>VPN-free.pro</b>!<br><br> The extension is very easy to use:<br><br>"
+    },
+    "social": {
+        "message": "Thank you for choosing <b>VPN-free.pro</b>!<br><br> If you like our extension, help us to expand it!<br> Share to your friends:<br><br>"
+    },
+	"ask": {
+		"message": "Thank you for choosing <b>VPN-free.pro</b>!<br><br>Are you satisfied with our application?<br><br>"
+	},
+	"mail": {
+		"message": "Write your comments and suggestions to the e-mail support@free-vpn.pro"
+	},
+	"support": {
+		"message": "Technical support: support@free-vpn.pro"
+	},
+    "webstore": {
+        "message": "Give us a good rate on Web Store:<br><br>"
+    },
+    "share_text": {
+        "message": "Help us to expand the project!<br> Please, share the link:<br><br>"
+    },
+	"start_privacy": {
+		"message": "Privacy policy"
+	},
+	"start_title": {
+		"message": "installation is almost complete"
+	},
+	"start_text": {
+		"message": "Three simple steps left to complete the installation and access the full extension functionality"
+	},
+	"start_step": {
+		"message": "Step"
+	},
+	"start_ext_menu": {
+		"message": "New Extension Menu"
+	},
+	"start_ext_menu_text": {
+		"message": "To access the extension, click on the puzzle piece icon in the upper right corner of your browser.<br>After clicking on the icon, a menu opens with a list of all installed extensions."
+	},
+	"start_ext_pin": {
+		"message": "Pin the extension"
+	},
+	"start_ext_pin_text": {
+		"message": "Opening the extension menu shows a list of extensions.<br>Each extension in the list has a pin icon on the right side of the menu. Clicking this icon pins the extension.<br>Once the extension is pinned, its action button remains in the toolbar."
+	},
+	"start_ext_country": {
+		"message": "Choose the country"
+	},
+	"start_ext_country_text": {
+		"message": "After the extension is pinned you can use the full functionality.<br> Click the extension's icon and choose the country.<br> The extension will automatically connect to the selected server.<br>Enjoy Free-VPN.pro - Free Unlimited VPN.<br><br><b>Make sure you do not have another extension installed with proxy or VPN functionality.<br>If there are other installed extensions Free-VPN.pro may not work correctly.</b>"
+	},
+	"attention": {
+		"message": "<b>ATTENTION!!!</b><br>The extension does not work!<br><br>Make sure your settings are selected as shown in the figure below."
+	},
+	"error_settings": {
+		"message": "Go to settings"
+	}
+}

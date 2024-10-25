@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang=en>
+<meta charset=utf-8>
+<link rel=stylesheet href=popup.css>
+<script src=../jquery/jquery.min.js></script>
+<script src=./wSelect.min.js defer></script>
+<script src=popup.js defer></script>
+<img src=./img/logo.png class=logo></img>
+<div id=content>
+  <div class=content-box><label class=wLabel-left>__MSG_select_country__</label>
+    <select id=country_select tabindex=1>
+      <option value=NOVPN data-icon=./img/NOVPN.png>__MSG_NOVPN__
+      <option value=DE data-icon=./img/DE.png>__MSG_DE__
+      <option value=CA data-icon=./img/CA.png>__MSG_CA__
+      <option value=US data-icon=./img/US.png>__MSG_US__
+      <option value=NL data-icon=./img/NL.png>__MSG_NL__
+      <option value=UK data-icon=./img/UK.png>__MSG_UK__
+      <option value=SG data-icon=./img/SG.png>__MSG_SG__
+      <option value=FR data-icon=./img/FR.png>__MSG_FR__
+      <option value=RU data-icon=./img/RU.png>__MSG_RU__
+    </select>
+  </div>
+</div>
+<div class="my_box">
+  <label class="wLabel-left wLabel-fix">Ограничить по хосту</label>
+  <label class="wLabel-left wLabel-fix">Применение: через строку вводите хост сайта на который хотите применить
+    VPN или оставьте пустым если хотите применить на все вкладки</label>
+  <textarea></textarea>
+  <button>Применить</button>
+  <label class="wLabel-left wLabel-fix">patched by wennerryle</label>
+</div>
+<br>
+<link rel=stylesheet href=./wSelect.css>

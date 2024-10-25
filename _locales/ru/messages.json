@@ -1,0 +1,278 @@
+{
+  "name": {
+    "message": "VPN-free.pro (patched by wennerryle)"
+  },
+  "short_name": {
+    "message": "Free VPN"
+  },
+  "description": {
+    "message": "VPN-free.pro - бесплатное расширение для Google Chrome. Позволяет использовать VPN Proxy сервера для разблокировки веб-сайтов, защиты конфиденциальности и скрытия IP-адрес."
+  },
+
+  "start_page_installing": {
+    "message": "Установка расширения VPN-free.pro началась"
+  },
+  "start_page_installed": {
+    "message": "Расширение VPN-free.pro успешно установлено!"
+  },
+  "start_page_not_close_text": {
+    "message": "Не закрывайте эту страницу до завершения установки"
+  },
+  "start_page_manual": {
+    "message": "Ознакомьтесь с руководством пользователя"
+  },
+  "start_page_pin_title": {
+    "message": "Закрепите расширение"
+  },
+  "start_page_pin_subtitle": {
+    "message": "Для быстрого доступа к VPN, закрепите расширение на панели инструментов."
+  },
+  "start_page_pin_text": {
+    "message": "1. Нажмите на значок «пазл» в правом верхнем углу браузера.<br>2. Выберите <b>VPN-free.pro - Бесплатный ВПН Прокси</b> в списке расширений и закрепите его.<br><br>После закрепления расширения иконка VPN-free.pro появится на панели инструментов."
+  },
+  "start_page_select_country_title": {
+    "message": "Выбор VPN-сервера"
+  },
+  "start_page_select_country_subtitle": {
+    "message": "Выберите страну из раскрывающегося списка в меню расширения."
+  },
+  "start_page_select_country_text": {
+    "message": "1. Нажмите на иконку расширения VPN-free.pro на панели инструментов, чтобы получить доступ к меню расширения.<br>2. Выберите VPN-сервер из доступных стран в раскрывающемся меню.<br><br>После выбора страны расширение <b>автоматически</b> подключится к указанному вами серверу."
+  },
+  "start_page_disable_vpn_title": {
+    "message": "Выключение VPN"
+  },
+  "start_page_disable_vpn_subtitle": {
+    "message": "Выключите VPN в два клика, если он вам сейчас не нужен."
+  },
+  "start_page_disable_vpn_text": {
+    "message": "1. Нажмите на иконку расширения VPN-free.pro на панели инструментов, чтобы получить доступ к меню расширения.<br>2. В раскрывающемся меню выберите пункт <b>«Выключить VPN»</b>.<br><br>После отключения VPN весь ваш трафик пойдет напрямую.<br> Когда VPN выключен, иконка расширения становится серого цвета.<br><br>Чтобы повторно подключиться, просто выберите страну из списка, и расширение <b>автоматически</b> подключиться к указанному вами серверу."
+  },
+  "start_page_support_title": {
+    "message": "Техническая поддержка"
+  },
+  "start_page_support_subtitle": {
+    "message": "Наша служба поддержки всегда рада помочь."
+  },
+  "start_page_support_text": {
+    "message": "1. Нажмите на иконку расширения VPN-free.pro на панели инструментов, чтобы получить доступ к меню расширения.<br> 2. Нажмите на <b>адрес электронной почты</b>, чтобы отправить запрос в службу поддержки.<br><br>Вы также можете отправить письмо на наш почтовый ящик <b>support@free-vpn.pro</b> с любого адреса электронной почты (Gmail, Hotmail, Яндекс и другие).<br>Мы не отвечаем на вопросы, заданные в магазине расширений Chrome Web Store."
+  },
+  "start_page_error_document_title": {
+    "message": "Ошибка!"
+  },
+  "start_page_error_dns_title": {
+    "message": "<b>❌Критическая ошибка!!! VPN недоступен!❌</b>"
+  },
+  "start_page_error_dns_text": {
+    "message": "Ваш провайдер блокирует доступ к VPN, перехватывая DNS запросы.<br><br>Настроить безопасные DNS просто. Инструкция по смене DNS <a id=\"dns\" target=\"_blank\">здесь</a>.<br><br> Остались вопросы? Напишите в техподдержку: <a href=\"mailto:support@free-vpn.pro?subject=VPN%20Professional%20DNS%20Error\">support@free-vpn.pro</a>"
+  },
+
+  "start_page_edge_extension": {
+    "message": "Расширения"
+  },
+  "start_page_edge_name": {
+    "message": "VPN-free.pro - Бесплатный ВПН"
+  },
+  "start_page_edge_manage": {
+    "message": "Управление расширениями"
+  },
+  "start_page_edge_microsoft": {
+    "message": "Открыть надстройки Microsoft Edge"
+  },
+
+  "error_page_attention": {
+    "message": "Расширение работает некорректно. VPN соединение может быть нарушено.<br>Убедитесь, что ваши настройки выбраны, как показано на рисунке ниже:"
+  },
+  "error_page_name": {
+    "message": "VPN-free.pro - Бесплатный ВПН"
+  },
+  "error_page_on": {
+    "message": "ВКЛ"
+  },
+  "error_page_description_title": {
+    "message": "Описание"
+  },
+  "error_page_description_text": {
+    "message": "VPN-free.pro - бесплатное расширение для Google Chrome. Позволяет использовать VPN Proxy сервера для разблокировки веб-сайтов, защиты конфиденциальности и скрытия IP-адрес."
+  },
+  "error_page_access_title": {
+    "message": "Доступ к сайтам"
+  },
+  "error_page_access_text": {
+    "message": "Разрешить расширению просмотр и изменение ваших данных на<br> посещаемых сайтах"
+  },
+  "error_page_access_select": {
+    "message": "На всех сайтах"
+  },
+  "error_page_settings": {
+    "message": "Перейти в настройки"
+  },
+
+  "share_page_satisfied": {
+    "message": "Спасибо что выбрали <b>VPN-free.pro</b>!<br><br>Вы довольны нашим расширением?<br><br>"
+  },
+  "share_page_rate": {
+    "message": "Оцените, пожалуйста, нас в Chrome Web Store:<br><br>"
+  },
+  "share_page_mail": {
+    "message": "Напишите свои замечания и пожелания на почту <a href='mailto:support@free-vpn.pro?subject=VPN%20Professional%20Share%20Page'>support@free-vpn.pro</a>."
+  },
+
+  "dns_page_h1_chrome": {
+    "message": "Как настроить безопасные DNS в Google Chrome"
+  },
+  "dns_page_p1_chrome": {
+    "message": "Нажмите на кнопку <button class=\"button\" id=\"button_chrome\">Открыть настройки DNS</button> или введите <code>chrome://settings/security</code> в адресную строку браузера."
+  },
+  "dns_page_p2_chrome": {
+    "message": "Вы также можете открыть страницу в ручную: <b>Меню → Настройки → Конфиденциальность и безопасность → Безопасность</b>."
+  },
+  "dns_page_p3_chrome": {
+    "message": "Прокрутите страницу вниз до секции <b>Дополнительные</b>."
+  },
+  "dns_page_p4_chrome": {
+    "message": "Включите опцию <b>Шифровать названия посещаемых сайтов</b>."
+  },
+  "dns_page_p5_chrome": {
+    "message": "Разверните параметры рядом с <b>Выбрать поставщика услуг DNS</b> и выберите <b>Google (Public DNS)</b> или <br><b>Cloudflare (1.1.1.1)</b>."
+  },
+  "dns_page_p6_chrome": {
+    "message": "<b>Обязательно</b> перезапустите браузер."
+  },
+  "dns_page_h1_edge": {
+    "message": "Как настроить безопасные DNS в Microsoft Edge"
+  },
+  "dns_page_p1_edge": {
+    "message": "Нажмите на кнопку <button class=\"button\" id=\"button_edge\">Открыть настройки DNS</button> или введите <code>edge://settings/privacy</code> в адресную строку браузера."
+  },
+  "dns_page_p2_edge": {
+    "message": "Вы также можете открыть страницу в ручную: <b>Меню → Настройки → Конфиденциальность, поиск и службы</b>."
+  },
+  "dns_page_p3_edge": {
+    "message": "Прокрутите страницу вниз до секции <b>Безопасность</b>."
+  },
+  "dns_page_p4_edge": {
+    "message": "Включите опцию <b>Использовать безопасные DNS, чтобы указать способ просмотра сетевого адреса для веб-сайтов</b>."
+  },
+  "dns_page_p5_edge": {
+    "message": "Переключитесь на пункт <b>Выбрать поставщика услуг</b>."
+  },
+  "dns_page_p6_edge": {
+    "message": "Щелкните пустое поле и выберите <b>Google (Public DNS)</b> или <b>Cloudflare (1.1.1.1)</b>."
+  },
+  "dns_page_p7_edge": {
+    "message": "<b>Обязательно</b> перезапустите браузер."
+  },
+  "dns_page_h1_yandex": {
+    "message": "Как настроить безопасные DNS в Яндекс Браузере"
+  },
+  "dns_page_p1_yandex": {
+    "message": "Нажмите на кнопку <button class=\"button\" id=\"button_yandex\">Открыть настройки DNS</button> или введите <code>browser://protect</code> в адресную строку браузера."
+  },
+  "dns_page_p2_yandex": {
+    "message": "Вы также можете открыть страницу в ручную: <b>Меню → Настройки → Безопасность</b>."
+  },
+  "dns_page_p3_yandex": {
+    "message": "Прокрутите страницу вниз до секции <b>Защита соединения</b>."
+  },
+  "dns_page_p4_yandex": {
+    "message": "Включите опцию <b>Использовать безопасный DNS-сервер</b>."
+  },
+  "dns_page_p5_yandex": {
+    "message": "Разверните параметры рядом с <b>Использовать</b> и выберите <b>Google (Public DNS)</b> или <b>Cloudflare (1.1.1.1)</b>."
+  },
+  "dns_page_p6_yandex": {
+    "message": "<b>Обязательно</b> перезапустите браузер."
+  },
+
+  "select_country": {
+    "message": "Выбрать страну или выключить VPN:"
+  },
+  "NOVPN": {
+    "message": "Выключить VPN"
+  },
+  "NL": {
+    "message": "Нидерланды (Голландия)"
+  },
+  "DE": {
+    "message": "Германия"
+  },
+  "US": {
+    "message": "США (Америка)"
+  },
+  "UK": {
+    "message": "Великобритания (Англия)"
+  },
+  "SG": {
+    "message": "Сингапур"
+  },
+  "FR": {
+    "message": "Франция"
+  },
+  "CA": {
+    "message": "Канада"
+  },
+  "RU": {
+    "message": "Россия"
+  },
+  "recommend": {
+    "message": "Для полной защиты Вашего компьютера мы <b><i><font color=\"red\">рекомендуем установить</font></b></i> следующие расширения."
+  },
+  "install": {
+    "message": "Поздравляем!!!<br> Вы установили <b>VPN-free.pro</b>!<br><br> Пользоваться расширением очень просто:<br>"
+  },
+  "social": {
+    "message": "Спасибо что выбрали <b>VPN-free.pro</b>!<br><br> Помогите проекту развиваться!<br> Расскажите о нас друзьям:<br><br>"
+  },
+  "ask": {
+    "message": "Спасибо что выбрали <b>VPN-free.pro</b>!<br><br>Вы довольны нашим расширением?<br><br>"
+  },
+  "mail": {
+    "message": "Напишите свои замечания и пожелания на почту support@free-vpn.pro"
+  },
+  "support": {
+    "message": "Техническая поддержка: support@free-vpn.pro"
+  },
+  "webstore": {
+    "message": "Оцените, пожалуйста, нас в Chrome Web Store:<br><br>"
+  },
+  "share_text": {
+    "message": "Помогите проекту развиваться!<br> Расскажите друзьям:<br><br>"
+  },
+  "start_privacy": {
+    "message": "Политика конфиденциальности"
+  },
+  "start_title": {
+    "message": "установка почти завершена"
+  },
+  "start_text": {
+    "message": "Осталось три простых шага для завершения установки и доступа к полному функционалу расширения"
+  },
+  "start_step": {
+    "message": "Шаг"
+  },
+  "start_ext_menu": {
+    "message": "Новое меню расширений"
+  },
+  "start_ext_menu_text": {
+    "message": "Для доступа к меню расширений нажмите на значок «пазл» в верхнем правом углу вашего браузера.<br>После нажатия на значок у вас откроется меню со списком всех установленных расширений."
+  },
+  "start_ext_pin": {
+    "message": "Закрепите расширение"
+  },
+  "start_ext_pin_text": {
+    "message": "При открытии меню расширений отображается список расширений.<br>Каждое расширение в списке имеет значок «булавки» в правой части меню. При нажатии на этот значок закрепляется расширение.<br>После закрепления расширения иконка Free-VPN.pro появится на панели инструментов."
+  },
+  "start_ext_country": {
+    "message": "Выберите страну"
+  },
+  "start_ext_country_text": {
+    "message": "После закрепления расширения вы можете использовать весь функционал.<br>Нажмите на иконку расширения и выберите страну.<br>Расширение автоматически подключиться к выбранному вами серверу.<br>Наслаждайтесь полностью бесплатным, безлимитным и безопасным VPN - Free-VPN.pro.<br><br><b>Убедитесь что у вас не установлены другие расширения с функционалом прокси или VPN.<br>При наличии других установленных расширений Free-VPN.pro может работать не корректно.</b>"
+  },
+  "attention": {
+    "message": "<b>ВНИМАНИЕ!!!</b><br>Расширение не работает!<br><br>Убедитесь, что настройки выбраны, как показано на рисунке ниже."
+  },
+  "error_settings": {
+    "message": "Перейти к настройкам"
+  }
+}

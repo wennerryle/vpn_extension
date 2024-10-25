@@ -1,0 +1,19 @@
+{
+  "name": "bibjcjfmgapbfoljiojpipaooddpkpai_3_0_0_0",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bg.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chrome": "^0.0.277",
+    "@types/jquery": "^3.5.31"
+  }
+}
